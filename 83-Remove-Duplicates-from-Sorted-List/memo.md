@@ -1,3 +1,6 @@
+# 問題
+https://leetcode.com/problems/remove-duplicates-from-sorted-list/
+
 # Step1
 - ソートはされているが，値の重複はあるリストが与えられて，値の重複がないソート済みリストを返す問題
     - ソートはされているので，重複している値をもつノードは必ず連続している
